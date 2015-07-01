@@ -129,7 +129,7 @@ code {
     color: $brand-color;
     font-family: consolas;
     font-size: 15px;
-    border: 0.5px solid $text-color;
+    border: 0.5px solid hsla(0, 0%, 0%, 1);
     border-radius: 3px;
     background-color: $inline-code-color;
 }
