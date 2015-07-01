@@ -128,8 +128,8 @@ pre,
 code {
     font-size: 15px;
     border: 1px solid $grey-color-light;
-    border-radius: 3px;
-    background-color: #eef;
+    border-radius: 8px;
+    background-color: $inline-code-color;
 }
 
 code {
