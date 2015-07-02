@@ -2,8 +2,10 @@
 
   <div class="wrapper">
 
-    <img src="https://github.com/PointOfSaleSystem/pointofsalesystem.github.io/blob/master/assets/POS_Icon_blue.png" alt="POS LOGO" width="32" height="32">
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}
+   
+    <a class="site-title" href="{{ site.baseurl }}/"> 
+    <img src="https://raw.githubusercontent.com/PointOfSaleSystem/pointofsalesystem.github.io/master/assets/POS_Icon_blue.png" alt="POS LOGO" width="32" height="32">
+    {{ site.title }}
     </a>
 
     <nav class="site-nav">
@@ -16,11 +18,7 @@
       </a>
 
       <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
+      <a class="page-link" href="{{ site.baseurl }}/about">About</a>
       </div>
     </nav>
 

@@ -6,15 +6,13 @@ layout: default
 
   <h1 class="page-heading">Please select a screen</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-      <!--   <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
- -->
+      <ul>
+        {% for page in site.pages %}
+        {% if page.title and page.title != "About" %}
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">// {{ post.title }}</a>
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
         </h2>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+          {% endif %}
+          {% endfor %}
+        </ul>
+      </div>

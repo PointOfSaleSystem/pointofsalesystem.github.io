@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  "Lockscreen"
-date:   2015-07-02 00:00:00
-categories: Screens
+layout: page
+title: Lockscreen
+permalink: /lockscreen/
 ---
 ![Lock Screen](/assets/LockScreen.png)
 
