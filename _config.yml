@@ -4,7 +4,7 @@ email: botha.daniel1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Project notes for Daniël Botha's Paul Roos Matric IT PAT.  
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://pointofsalesystem.github.io" # the base hostname & protocol for your site
 github_username:  iggnoreza
 
 # Build settings
