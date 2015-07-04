@@ -8,9 +8,9 @@ permalink: /home/
 ##What is this screen?
 When the PointofSaleSystem application is started, this is the first screen the user sees. This is a form of access control that ensures that no persons other than the designated cashier gains access to the program. 
 
-1. `New Transaction`
-2. `Search`
-3. `Manager Portal`
+1. [New Transaction](/newtransaction/)
+2. [Search](/search/)
+3. [Manager Portal](/managerportal/)
 
 
 ##How do I use it?
