@@ -6,7 +6,7 @@ permalink: /newtransaction/
 ![New Transaction](/assets/NewTransaction.png)
 
 ##What is this screen?
-This screen is where the actual transactions take place. This function, along with the [search](/search/), are the only two functions that are displayed to the customers and to the cashiers - the rest is all done by the manager. 
+This screen is where the actual transactions take place. This function, along with the [search](/search/) screen, are the only two functions that are displayed to the customers and to the cashiers - the rest is all done by the manager. 
 
 ##How do I use it?
 The user can select any of the products in the database from the table to the right, and it will add that product to the left, on the output area. 
