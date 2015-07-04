@@ -3,10 +3,15 @@ layout: page
 title: Home
 permalink: /home/
 ---
-![Home Screen](/assets/HomeGUI.png)
+![Home](/assets/HomeGUI.png)
 
 ##What is this screen?
 When the PointofSaleSystem application is started, this is the first screen the user sees. This is a form of access control that ensures that no persons other than the designated cashier gains access to the program. 
+
+1. `New Transaction`
+2. `Search`
+3. `Manager Portal`
+
 
 ##How do I use it?
 The user has to enter a password to access the application. This is done by clicking on the numbers on the right. If the user made a mistake when entering the password, they can click on the back button to clear the field. 
