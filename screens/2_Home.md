@@ -6,7 +6,7 @@ permalink: /home/
 ![Home](/assets/HomeGUI.png)
 
 ##What is this screen?
-When the PointofSaleSystem application is started, this is the first screen the user sees. This is a form of access control that ensures that no persons other than the designated cashier gains access to the program. 
+When the lockscreen password is successfully entered the user is brought to this screen. This is where the user can access the three main aspects of the application, namely: 
 
 1. [New Transaction](/newtransaction/)
 2. [Search](/search/)
@@ -14,10 +14,11 @@ When the PointofSaleSystem application is started, this is the first screen the 
 
 
 ##How do I use it?
-The user has to enter a password to access the application. This is done by clicking on the numbers on the right. If the user made a mistake when entering the password, they can click on the back button to clear the field. 
+Like the other screens, the user can click on the `POS` logo at the top left to view the application [source code](https://github.com/iggnoreza/PointOfSaleSystem), click on the screen title (Home) to open up these project notes, and quit the program with the `X` button in the top right corner. Unlike the lockscreen there is also a lock button which let's you lock the program while you are away.
 
-For demonstration purposes, the password of the application is `0000`. If the password is entered incorrectly, a dialog pane is brought up to display an error message. 
+The user can also click on the Spar logo to redirect them to [their site](http://kwiksparpaulroos.co.za/).
 
-This is not the only function of this screen. Like all of the other screens, when the user clicks on the logo at the top left corner, it takes you to [source code](https://github.com/iggnoreza/PointOfSaleSystem) of the application. 
+When the user clicks on the `Manager Portal` button, a dialog pane is brought up to enter the manager password. For the time being, the manager password is `1234`, and can only be changed by going to the `HomeGUI.java` file in `line 20` and changing `private final String managerPass` to your desired pass.
 
-Another function that this screen has, like all the other screens, is the ablitiy to access the screen's project notes by clicking on the screen title at the top next to the POS logo.
+##Known Bugs
+When the dialog is brought up to type in the `Manager Password`, the password that the manager enters can be seen by anyone standing near the screen. Unlike the lockscreen, a `*` isn't displayed whenever a user enters a character, but rather the specific character that is being entered. This is a big security flaw and still has to be figured out. The password is also not limited to digits, but it can be any string of characters, of any length.  
