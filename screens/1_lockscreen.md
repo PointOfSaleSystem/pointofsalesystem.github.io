@@ -16,3 +16,10 @@ For demonstration purposes, the password of the application is `0000`. If the pa
 This is not the only function of this screen. Like all of the other screens, when the user clicks on the logo at the top left corner, it takes you to [source code](https://github.com/iggnoreza/PointOfSaleSystem) of the application. 
 
 Another function that this screen has, like all the other screens, is the ablitiy to access the screen's project notes by clicking on the screen title at the top next to the POS logo.
+
+The application can be quit by clicking on the `X` in the top right corner.
+
+##Known Bugs
+When the user tries to type in a password, unfortunately the user can type a password longer than 4 characters. All passwords for this application are 4 characters long to conform to convention. 
+
+There is also no other way to change the password except for in the code. If you want to change the password, ask the developer to go to `line 17` in the file, and change `private final String masterpass` to your desired 4 digit password. 
