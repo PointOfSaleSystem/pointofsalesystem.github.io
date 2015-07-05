@@ -16,3 +16,4 @@ The user needs to be able to add items/stock to the database, to fill up stock t
 ##Technical Facts
 - This application is running at a resolution of `1024 x 768`, in order to not be oversized on older POS screens. 
 - The majority of the application can be operated on a touch screen device with a keyboard. No mouse is needed!
+- For the time being, all barcodes have to be entered manually. In the future, a barcode scanner could be used. 
