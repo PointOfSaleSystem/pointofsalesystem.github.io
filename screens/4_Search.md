@@ -6,15 +6,14 @@ permalink: /search/
 ![Search](/assets/SearchGUI.png)
 
 ##What is this screen?
-When the PointofSaleSystem application is started, this is the first screen the user sees. This is a form of access control that ensures that no persons other than the designated cashier gains access to the program. 
+Whenever the cashier or the customer wants to know more details regarding a certain product in the store, the cashier can enter the name or barcode of the product they are searching for. This screen is particularly useful if the user wants to know the price or other similar details of a certain product.  
 
 ##How do I use it?
-The user has to enter a password to access the application. This is done by clicking on the numbers on the right. If the user made a mistake when entering the password, they can click on the back button to clear the field. 
+The cashier can enter the `product name` OR the `barcode` of a product, and it displays all the products in the database with matching names/barcodes. 
 
-For demonstration purposes, the password of the application is `0000`. If the password is entered incorrectly, a dialog pane is brought up to display an error message. 
+The cashier can also click the `View All` button to list all of the items in the database along with their name, barcode, price, and quantity left in the store. 
 
-This is not the only function of this screen. Like all of the other screens, when the user clicks on the logo at the top left corner, it takes you to [source code](https://github.com/iggnoreza/PointOfSaleSystem) of the application. 
+The project notes, source code, back- and quit buttons are available like all the other screens. 
 
-Another function that this screen has, like all the other screens, is the ablitiy to access the screen's project notes by clicking on the screen title at the top next to the POS logo.
 
 ##Known Bugs
