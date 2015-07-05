@@ -13,7 +13,7 @@ The user can select any of the products in the database from the table to the ri
 
 Alternatively, the user can click on the `Keypad` tab, and [type in](/assets/NewTransactionGUI_Keypad.png) the specific barcode of an item in the database, and it will be added to the output window. 
 
-If need be, a store manager can click on the `Manager` tab, enter his [password](/assets/ManagerPassword.png) and [enter the barcode](/assets/NewTransactionGUI_Manager.png) of a product that needs to be removed from the transaction.
+If need be, a store manager can click on the `Manager` tab, enter his [password](https://raw.githubusercontent.com/PointOfSaleSystem/pointofsalesystem.github.io/master/assets/ManagerPassword.PNG) and [enter the barcode](/assets/NewTransactionGUI_Manager.png) of a product that needs to be removed from the transaction.
 
 For demonstration purposes, the manager password is `1234` but can be changed to any string in the `NewTransactionGUI.java` file in `line 22`. If the password is entered incorrectly, a dialog pane is brought up to display an error message. 
 
