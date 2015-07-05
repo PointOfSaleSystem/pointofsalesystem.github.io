@@ -12,3 +12,7 @@ There are already multiple POS Systems, each with their own characteristics. The
 ##Define The Task
 For my Practical Assessment Task I will be creating a Point of Sale system, as is used in grocery stores such as Spar and Checkers. This piece of software must be able to add groceries to a list, then add the costs up, print out a slip and receive payment, and then calculate change. This system will however also be used to keep track of stock, remember how many items have been sold and notify you when stocks are near depletion. 
 The user needs to be able to add items/stock to the database, to fill up stock that has been depleted. A various list of statements will be able to be generated, e.g. a total list of sales, the amount of money made in a day/week/month etc. or even how much change is left in the till. 
+
+##Technical Facts
+- This application is running at a resolution of `1024 x 768`, in order to not be oversized on older POS screens. 
+- The majority of the application can be operated on a touch screen device with a keyboard. No mouse is needed!
