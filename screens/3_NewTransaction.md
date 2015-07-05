@@ -17,7 +17,7 @@ If need be, a store manager can click on the `Manager` tab, enter his [password]
 
 For demonstration purposes, the manager password is `1234` but can be changed to any string in the `NewTransactionGUI.java` file in `line 22`. If the password is entered incorrectly, a dialog pane is brought up to display an error message. 
 
-Like all of the other screens, when the user clicks on the logo at the top left corner, it takes you to [source code](https://github.com/iggnoreza/PointOfSaleSystem) of the application. 
+Like all of the other screens, when the user clicks on the logo at the top left corner, it takes you to the [source code](https://github.com/iggnoreza/PointOfSaleSystem) of the application. 
 
 A back button is supplied at the top of the screen to return to the home screen whenever the user wants to.
 
