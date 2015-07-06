@@ -12,6 +12,7 @@ permalink: /references/
 - Thilo, Julian &#x2022; (2015) &#x2022; Run Jekyll on Windows &#x2022; Available: [http://jekyll-windows.juthilo.com](http://jekyll-windows.juthilo.com/) &#x2022; Last accessed 1 July 2015
 - Baxter, Lincoln &#x2022; (2013) &#x2022; Guide to Regular Expressions in Java &#x2022; Available: [http://www.ocpsoft.org/opensource/guide-to-regular-expressions-in-java-part-1](http://www.ocpsoft.org/opensource/guide-to-regular-expressions-in-java-part-1/) &#x2022; Last accessed 1 July 2015
 - Oracle &#x2022; (1995) &#x2022; How to use Swing Timers &#x2022; Available: [https://docs.oracle.com/javase/tutorial/uiswing/misc/timer.html](https://docs.oracle.com/javase/tutorial/uiswing/misc/timer.html) &#x2022; Last accessed May 2015
+- Tutorials Point &#x2022; (2015) &#x2022; JavaMail API - Gmail SMPT Server &#x2022; Available: [http://www.tutorialspoint.com/javamail_api/javamail_api_gmail_smtp_server.htm](http://www.tutorialspoint.com/javamail_api/javamail_api_gmail_smtp_server.htm) &#x2022; Last accessed 6 July 2015
 
 ##Individuals
 - Strydom, Danie &#x2022; (2015) &#x2022; Permission to use Spar content &#x2022; Screenshot [here](http://i.imgur.com/poPU8jX.png) &#x2022; 28th June 2015
