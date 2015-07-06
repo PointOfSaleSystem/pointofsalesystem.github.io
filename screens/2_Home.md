@@ -3,7 +3,7 @@ layout: page
 title: Home
 permalink: /home/
 ---
-![Home](/assets/HomeGUI.png)
+![Home](http://i.imgur.com/egJGCyL.png)
 
 ##What is this screen?
 When the lockscreen password is successfully entered the user is brought to this screen. This is where the user can access the three main aspects of the application, namely: 

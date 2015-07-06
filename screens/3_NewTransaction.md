@@ -3,7 +3,7 @@ layout: page
 title: New Transaction
 permalink: /newtransaction/
 ---
-![New Transaction](/assets/NewTransaction.png)
+![New Transaction](http://i.imgur.com/jGjPjHn.png)
 
 ##What is this screen?
 This screen is where the actual transactions with the customers take place. This function, along with the [search](/search/) function, are the only two functions that are displayed to the customers and to the cashiers - the rest is all done by the manager. 

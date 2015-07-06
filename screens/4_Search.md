@@ -3,7 +3,7 @@ layout: page
 title: Search
 permalink: /search/
 ---
-![Search](/assets/SearchGUI.png)
+![Search](http://i.imgur.com/6XJWCAu.png)
 
 ##What is this screen?
 Whenever the cashier or the customer wants to know more details regarding a certain product in the store, the cashier can enter the name or barcode of the product they are searching for. This screen is particularly useful if the user wants to know the price or other similar details of a certain product.  

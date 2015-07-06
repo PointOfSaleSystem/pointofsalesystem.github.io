@@ -3,7 +3,7 @@ layout: page
 title: Lockscreen
 permalink: /lockscreen/
 ---
-![Lock Screen](/assets/LockScreen.png)
+![Lock Screen](http://i.imgur.com/Zn0Vco1.png)
 
 ##What is this screen?
 When the PointofSaleSystem application is started, this is the first screen the user sees. This is a form of access control that ensures that no persons other than the designated cashier gains access to the program. 

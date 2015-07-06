@@ -3,7 +3,7 @@ layout: page
 title: Manager Portal 
 permalink: /managerportal/
 ---
-![Manager Portal](/assets/ManagerPortalGUI.png)
+![Manager Portal](http://i.imgur.com/VHhoYlJ.jpg)
 
 ##What is this screen?
 When the PointofSaleSystem application is started, this is the first screen the user sees. This is a form of access control that ensures that no persons other than the designated cashier gains access to the program. 
