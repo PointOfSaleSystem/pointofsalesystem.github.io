@@ -14,6 +14,3 @@ The cashier can enter the `product name` OR the `barcode` of a product, and it d
 The cashier can also click the `View All` button to list all of the items in the database along with their name, barcode, price, and quantity left in the store. 
 
 The project notes, source code, back- and quit buttons are available like all the other screens. 
-
-
-##Known Bugs
