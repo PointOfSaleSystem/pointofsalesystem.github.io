@@ -16,7 +16,8 @@ permalink: /references/
 
 ##Individuals
 - Strydom, Danie &#x2022; (2015) &#x2022; Permission to use Spar content &#x2022; Screenshot [here](http://i.imgur.com/poPU8jX.png) &#x2022; 28th June 2015
-- Nico C Rossouw &#x2022; (2015) &#x2022; Permission to use Regex &#x2022; Screenshot [here](http://i.imgur.com/E00Xpye.png) &#x2022; 1 July 2015
+- Rossouw, Nico C &#x2022; (2015) &#x2022; Permission to use Regex &#x2022; Screenshot [here](http://i.imgur.com/E00Xpye.png) &#x2022; 1 July 2015
+- Botha, Henré &#x2022; (2015) &#x2022; SQL Joins/Regular Expression &#x2022; July 2015
 
 ##Miscellaneous
-- DaFont &#x2022; POS Logo Font - Neoteric &#x2022; http://www.dafont.com/neoteric.font &#x2022; May 2015
+- DaFont &#x2022; POS Logo Font - Neoteric &#x2022; http://www.dafont.com/neoteric.font &#x2022; May 2015 
