@@ -3,22 +3,15 @@ layout: page
 title: Remove Stock
 permalink: /removestock/
 ---
-![Manager Portal](http://i.imgur.com/VHhoYlJ.jpg)
+![Remove Stock](http://i.imgur.com/hUvrWmy.png)
 
 ##What is this screen?
-This screen is used for all administration features of the application. It has 6 main functions: 
-
-1. [Add new stock]
-2. [Order stock]
-3. [Remove Stock]
-4. [Receive delivery]
-5. [Print statements]
-6. [Add new supplier]
+In case of stock that has been stolen and/or has gone missing, the manager can use this form to remove stock from the database. This is an easy way to remove stock from the database with little to no effort.
 
 ##How do I use it?
-The user has to enter a password to access the application. This is done by clicking on the numbers on the right. If the user made a mistake when entering the password, they can click on the back button to clear the field. 
+This form is extremely straight forward to use. Simply enter the `Product Name` and the quantity you wish to remove (make sure the quantity is less than is available in the database), and click the `Delete Stock` button. The program will auto-complete the rest of the fields. 
 
+Click the `Permanently Delete` button to remove the stock from the database.  
 
-These are not the only functions of this screen. Like all of the other screens, when the user clicks on the logo at the top left corner, it takes you to [source code](https://github.com/iggnoreza/PointOfSaleSystem) of the application. 
-
-Another function that this screen has, like all the other screens, is the ablitiy to access the screen's project notes by clicking on the screen title at the top next to the POS logo.
+##Known Bugs
+If you prefer to enter the quantity value with the keyboard, be sure to press the `Enter` key on your keyboard after you entered the value. This is a bug with `JSpinners` that only take values after the `Enter` key has been pressed. 
