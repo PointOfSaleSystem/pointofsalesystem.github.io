@@ -3,22 +3,19 @@ layout: page
 title: Order Stock
 permalink: /orderstock/
 ---
-![Manager Portal](http://i.imgur.com/VHhoYlJ.jpg)
+![Order Stock](http://i.imgur.com/bwOFHAo.png)
 
 ##What is this screen?
-This screen is used for all administration features of the application. It has 6 main functions: 
-
-1. [Add new stock]
-2. [Order stock]
-3. [Remove Stock]
-4. [Receive delivery]
-5. [Print statements]
-6. [Add new supplier]
+When a manager wants to order stock, he/she can do it from this screen. Upon completing two simple fields in the form, an email will be constructed and sent to the respective suppplier of the product. 
 
 ##How do I use it?
-The user has to enter a password to access the application. This is done by clicking on the numbers on the right. If the user made a mistake when entering the password, they can click on the back button to clear the field. 
+When you want to order a product that is already in your database, simply do the following*:
 
+1. Enter the exact product name as it is listed in the database.
+2. Enter the quantity you would like to order from the supplier. 
+3. Click on the `Place Order` button. The rest of the fields will be auto-completed. 
+4. Click on the `Confirm Order` button once all the fields are auto-completed. 
+5. Wait while an email is sent to the supplier through the application.
+6. A dialog will be displayed that confirms whether or not the email was successfully sent. 
 
-These are not the only functions of this screen. Like all of the other screens, when the user clicks on the logo at the top left corner, it takes you to [source code](https://github.com/iggnoreza/PointOfSaleSystem) of the application. 
-
-Another function that this screen has, like all the other screens, is the ablitiy to access the screen's project notes by clicking on the screen title at the top next to the POS logo.
+\* *For testing purposes, all supplier emails are made up. If you want to test the `Order Stock` function, make sure to first add a new supplier with a valid email address via the [Add Supplier](/addsupplier/) screen. Then, add a product to the database that belongs to this supplier.* THEN *you can use the order screen with the product you want to order.*
