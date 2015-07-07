@@ -3,7 +3,7 @@ layout: page
 title: Add new supplier 
 permalink: /addsupplier/
 ---
-![Manager Portal](http://i.imgur.com/VHhoYlJ.jpg)
+![Add New Supplier](http://i.imgur.com/z1PUkCM.png)
 
 ##What is this screen?
 This screen is used for all administration features of the application. It has 6 main functions: 
