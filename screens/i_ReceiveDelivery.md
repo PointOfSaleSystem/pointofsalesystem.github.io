@@ -3,22 +3,18 @@ layout: page
 title: Receive Delivery 
 permalink: /receivedelivery/
 ---
-![Manager Portal](http://i.imgur.com/VHhoYlJ.jpg)
+![Receive Delivery](http://i.imgur.com/XIrUuu3.png)
 
 ##What is this screen?
-This screen is used for all administration features of the application. It has 6 main functions: 
+Here we have the `Receive Delivery` screen that lets the manager process incoming deliveries. Once a delivery arrives for an order that was placed via the `Order Stock` screen can be processed with this screen. 
 
-1. [Add new stock]
-2. [Order stock]
-3. [Remove Stock]
-4. [Receive delivery]
-5. [Print statements]
-6. [Add new supplier]
+When a delivery arrives, this screen is used to check that all of the products have successfully been delivered to the store.  
 
 ##How do I use it?
-The user has to enter a password to access the application. This is done by clicking on the numbers on the right. If the user made a mistake when entering the password, they can click on the back button to clear the field. 
 
+1. When a delivery arrives at the store, the manager only has to enter the `Order ID` as is seen on the delivery waybill.  
+2. The user clicks on the `Receive Delivery` button and the rest of the fields will be auto-completed. 
+3. Check that all the products that were ordered have been ordered are delivered. 
+4. If the user is happy that the delivery is correct, he/she can click on the `Confirm Delivery` button.
 
-These are not the only functions of this screen. Like all of the other screens, when the user clicks on the logo at the top left corner, it takes you to [source code](https://github.com/iggnoreza/PointOfSaleSystem) of the application. 
-
-Another function that this screen has, like all the other screens, is the ablitiy to access the screen's project notes by clicking on the screen title at the top next to the POS logo.
+It's that simple! The application now takes the info you entered and sets the `Delivered` field in the database to `True` to indicate that the order has been delivered.
