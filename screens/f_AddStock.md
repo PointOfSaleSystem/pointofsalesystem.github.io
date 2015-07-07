@@ -1,24 +1,25 @@
 ---
 layout: page
-title: Add Stock 
+title: Add New Stock 
 permalink: /addstock/
 ---
-![Manager Portal](http://i.imgur.com/VHhoYlJ.jpg)
+![Add Stock](http://i.imgur.com/9mWzndA.png)
 
 ##What is this screen?
-This screen is used for all administration features of the application. It has 6 main functions: 
+Here we have the first of the screens that adds data to the tables. This screen is not to be confused with the Order Stock screen. This form is used to add new stock to the database. 
 
-1. [Add new stock]
-2. [Order stock]
-3. [Remove Stock]
-4. [Receive delivery]
-5. [Print statements]
-6. [Add new supplier]
+This will create a new product record in the database, and if the store wants to order more of this stock they can use the `Order Stock` stock screen to do so.
 
 ##How do I use it?
-The user has to enter a password to access the application. This is done by clicking on the numbers on the right. If the user made a mistake when entering the password, they can click on the back button to clear the field. 
 
+1. Type in the full `Product Name` in the first field.
+2. Use the `Quantity` spinner to select an amount of the product that you bought.
+3. Type in the 13-digit barcode (starting with a `0` and contaning 13 digits in total).
+4. Type in the `Supplier Name` from where you bought the product. If you have not yet bought from this supplier, be sure to add the supplier to the database first via the [Add New Supplier](/addsupplier/) form.
+5. Enter the product price.
+6. Enter the markup %*. This is the % that you want to add to the product when you sell it in your store.
+7. Click the `Add To Database` button and wait for the application to add the data to the table. A confirmation dialog will pop up if the values entered are correct or invalid.
 
-These are not the only functions of this screen. Like all of the other screens, when the user clicks on the logo at the top left corner, it takes you to [source code](https://github.com/iggnoreza/PointOfSaleSystem) of the application. 
+The title bar has the same functionality as all the other screens.
 
-Another function that this screen has, like all the other screens, is the ablitiy to access the screen's project notes by clicking on the screen title at the top next to the POS logo.
+\* *Usually between 9- and 13 percent.*
