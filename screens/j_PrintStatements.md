@@ -3,7 +3,7 @@ layout: page
 title: Print Statements
 permalink: /printstatements/
 ---
-![Manager Portal](http://i.imgur.com/VHhoYlJ.jpg)
+![Print Statements](http://i.imgur.com/8e3m5eA.png)
 
 ##What is this screen?
 This screen is used for all administration features of the application. It has 6 main functions: 
@@ -17,7 +17,6 @@ This screen is used for all administration features of the application. It has 6
 
 ##How do I use it?
 The user has to enter a password to access the application. This is done by clicking on the numbers on the right. If the user made a mistake when entering the password, they can click on the back button to clear the field. 
-
 
 These are not the only functions of this screen. Like all of the other screens, when the user clicks on the logo at the top left corner, it takes you to [source code](https://github.com/iggnoreza/PointOfSaleSystem) of the application. 
 
