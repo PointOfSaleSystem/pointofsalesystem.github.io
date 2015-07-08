@@ -11,9 +11,9 @@ This screen is where the actual transactions with the customers take place. This
 ##How do I use it?
 The user can select any of the products in the database from the table to the right, and it will add that product to the left, on the output area. 
 
-Alternatively, the user can click on the `Keypad` tab, and [type in](/assets/NewTransactionGUI_Keypad.png) the specific barcode of an item in the database, and it will be added to the output window. 
+Alternatively, the user can click on the `Barcode` tab, and type the specific barcode of an item in the database via a `JOptionPane`, and it will be added to the output window. 
 
-If need be, a store manager can click on the `Manager` tab, enter his [password](https://raw.githubusercontent.com/PointOfSaleSystem/pointofsalesystem.github.io/master/assets/ManagerPassword.PNG) and [enter the barcode](/assets/NewTransactionGUI_Manager.png) of a product that needs to be removed from the transaction.
+If need be, a store manager can click on the `Manager` tab, enter his password, and enter the barcode of a product that needs to be removed from the transaction.
 
 For demonstration purposes, the manager password is `1234` but can be changed to any string in the `NewTransactionGUI.java` file in `line 22`. If the password is entered incorrectly, a dialog pane is brought up to display an error message. 
 
@@ -24,4 +24,4 @@ A back button is supplied at the top of the screen to return to the home screen 
 Another function that this screen has, like all the other screens, is the ablitiy to access the screen's project notes by clicking on the screen title at the top next to the POS logo.
 
 ##Known Bugs
-I am currently struggling with the functionality of the `Keypad` and `Manager` buttons. They are supposed to display their own text fields and icons etc. Unfortunately, I have not yet found a way  to hide all the other tabs' content. 
+For the time being, the cashier has to enter the product barcodews with the keyboard. In the future, the cashier might be able to use a barcode scanner to add and remove the items from the transaction!
