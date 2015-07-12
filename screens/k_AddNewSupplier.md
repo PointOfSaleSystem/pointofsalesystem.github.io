@@ -6,19 +6,17 @@ permalink: /addsupplier/
 ![Add New Supplier](http://i.imgur.com/z1PUkCM.png)
 
 ##What is this screen?
-This screen is used for all administration features of the application. It has 6 main functions: 
-
-1. [Add new stock]
-2. [Order stock]
-3. [Remove Stock]
-4. [Receive delivery]
-5. [Print statements]
-6. [Add new supplier]
+Whenever stock is bought from a new supplier, this form has to be used first to add them to the database.
 
 ##How do I use it?
-The user has to enter a password to access the application. This is done by clicking on the numbers on the right. If the user made a mistake when entering the password, they can click on the back button to clear the field. 
+The user has to enter the following details in its respective textfields. 
 
+1. `Supplier name`
+2. `Contact name`
+3. `Email address` - must be a valid email address. `abc@wx.yz.uk`, or `abc@asdf.com`.
+4. `Phone number`
 
-These are not the only functions of this screen. Like all of the other screens, when the user clicks on the logo at the top left corner, it takes you to [source code](https://github.com/iggnoreza/PointOfSaleSystem) of the application. 
+The user then has to click on the `Save` button and all the details will be added to the database. The user can then make use of this supplier's name in other screens such as `Order Stock`. 
 
-Another function that this screen has, like all the other screens, is the ablitiy to access the screen's project notes by clicking on the screen title at the top next to the POS logo.
+##Known Bugs
+There is no validation being done for the phone number. The email address also only has to be the correct format, but it does not have to be an active address. 
