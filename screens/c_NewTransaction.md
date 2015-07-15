@@ -24,4 +24,4 @@ A back button is supplied at the top of the screen to return to the home screen 
 Another function that this screen has, like all the other screens, is the ablitiy to access the screen's project notes by clicking on the screen title at the top next to the POS logo.
 
 ##Known Bugs
-For the time being, the cashier has to enter the product barcodews with the keyboard. In the future, the cashier might be able to use a barcode scanner to add and remove the items from the transaction!
+For the time being, the cashier has to enter the product barcodes with the keyboard. In the future, the cashier might be able to use a barcode scanner to add and remove the items from the transaction!
