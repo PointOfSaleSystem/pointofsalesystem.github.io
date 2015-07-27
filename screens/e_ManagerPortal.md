@@ -3,7 +3,7 @@ layout: page
 title: Manager Portal 
 permalink: /managerportal/
 ---
-![Manager Portal](http://i.imgur.com/VHhoYlJ.jpg)
+![Manager Portal](http://i.imgur.com/uQSZbib.jpg)
 
 ##What is this screen?
 This screen is used for all administration features of the application. It has six main functions: 
