@@ -15,7 +15,7 @@ For demonstration purposes, the password of the application is `0000`. If the pa
 
 This is not the only function of this screen. Like all of the other screens, when the user clicks on the logo at the top left corner, it takes you to [source code](https://github.com/iggnoreza/PointOfSaleSystem) of the application. 
 
-Another function that this screen has, like all the other screens, is the ablitiy to access the screen's project notes by clicking on the screen title at the top next to the POS logo.
+Another function that this screen has, like all the other screens, is the ablitiy to access the screen's project notes by clicking on the `?` in the top right corner.
 
 The application can be quit by clicking on the `X` in the top right corner.
 

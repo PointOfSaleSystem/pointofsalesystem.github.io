@@ -14,7 +14,7 @@ When the lockscreen password is successfully entered the user is brought to this
 
 
 ##How do I use it?
-Like the other screens, the user can click on the `POS` logo at the top left to view the application [source code](https://github.com/iggnoreza/PointOfSaleSystem), click on the screen title (Home) to open up these project notes, and quit the program with the `X` button in the top right corner. Unlike the lockscreen there is also a lock button which let's you lock the program while you are away.
+Like the other screens, the user can click on the `POS` logo at the top left to view the application [source code](https://github.com/iggnoreza/PointOfSaleSystem), click on the `?` in the top right corner to open up these project notes, and quit the program with the `X` button in the top right corner. Unlike the lockscreen there is also a lock button which let's you lock the program while you are away.
 
 The user can also click on the Spar logo to redirect them to [their site](http://kwiksparpaulroos.co.za/).
 
