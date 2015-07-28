@@ -2,7 +2,7 @@
 title: Point of Sale System
 email: botha.daniel1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Project notes for Daniël Botha's Paul Roos Matric IT PAT.  
+  Full documentation for Daniël Botha's Paul Roos Matric IT PAT.  
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://pointofsalesystem.github.io" # the base hostname & protocol for your site
 github_username:  iggnoreza
